@@ -1,0 +1,18 @@
+{
+    "host": "NobilianCrafters.aternos.me",
+    "port": 21093,
+    "username": "RoboProBot",
+    "password": "",
+    "creator": ["Robotics n Programming World", "RoboProWorld", "RoboProGamerz"],
+    "version": 1.18,
+    "prefix": "&",
+    "inventoryView": 3001,
+    "chunkViewer": 3000,
+    "foodPriority": "foodPoints",
+    "bannedFood": [
+        "golden_apple",
+        "enchanted_golden_apple",
+        "rotten_flesh"
+    ],
+    "hungryAt": "15"
+}
